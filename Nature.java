@@ -20,6 +20,5 @@ public class Nature {
         eyeCherry.land();
         eyeCherry.descend(9);
         eyeCherry.land();
-        */
     }
 }
